@@ -16,3 +16,5 @@ to launch locally use requirements.txt
 
 all the other information is in notebooks (practice-6 notebook.ipynb)
 
+Download dataset from kaggle
+https://www.kaggle.com/datasets/ektarr/gta-vi-user-reviews
